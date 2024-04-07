@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.row{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+@font-face {
+    font-family: primary;
+    src: url(../../../font/Urbanist-VariableFont_wght.ttf);
+}
